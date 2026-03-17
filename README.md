@@ -1,5 +1,7 @@
 # SuperCoolProject
 
-Guys im having second thoughts, this might not be as cool as I thought.
+Scott MacMurray
+This is Scott MacMurray
 
-Mark Fuller
+Sincerely,
+    Scott MacMurray
